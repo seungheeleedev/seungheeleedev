@@ -38,7 +38,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Altium&20Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white">
+<img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white">
 <img src="https://img.shields.io/badge/Rhino5-801010?style=flat-square&logo=rhinoceros&logoColor=white">
 
 <br>
