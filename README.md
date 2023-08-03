@@ -58,10 +58,9 @@
 
 <br>
 
-## ✍️ My Github Stats
-![seungheeleedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungheeleedev&show_icons=true&theme=aura)
-
+## ⭐ My Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungheeleedev&layout=compact&theme=aura)
+![seungheeleedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungheeleedev&show_icons=true&theme=aura)
 
 <br>
 <br>
