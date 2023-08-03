@@ -55,5 +55,16 @@
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white">
 
 <br>
+
 <br>
+
+## ✍️ My Github Stats
+![seungheeleedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungheeleedev&show_icons=true&theme=aura)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungheeleedev&layout=compact&theme=aura)
+
+<br>
+<br>
+
+
 </div>
