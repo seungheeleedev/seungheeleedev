@@ -33,12 +33,19 @@
 ### ⚒️ Tools
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
+<img src ="https://img.shields.io/badge/MPLAB%20X%20IDE-062e39.svg?&style=flat-square">
+<img src ="https://img.shields.io/badge/CodeVisionAVR-FF0000.svg?&style=flat-square">
 <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 
 <br>
 
+<img src ="https://img.shields.io/badge/Splan7.0-c08245.svg?&style=flat-square">
+<img src ="https://img.shields.io/badge/ICAP/4-9c2931.svg?&style=flat-square">
+<img src ="https://img.shields.io/badge/Tinkercad-rainbow.svg?&style=flat-square">
+<img src ="https://img.shields.io/badge/Frizing-df4833.svg?&style=flat-square">
+<img src ="https://img.shields.io/badge/Proteus%208-006074.svg?&style=flat-square">
 <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white">
 <img src="https://img.shields.io/badge/Rhino5-801010?style=flat-square&logo=rhinoceros&logoColor=white">
 
