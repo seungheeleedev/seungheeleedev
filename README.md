@@ -43,7 +43,7 @@
 
 <img src ="https://img.shields.io/badge/Splan7.0-c08245.svg?&style=flat-square">
 <img src ="https://img.shields.io/badge/ICAP/4-9c2931.svg?&style=flat-square">
-<img src ="https://img.shields.io/badge/Tinkercad-rainbow.svg?&style=flat-square">
+<img src ="https://img.shields.io/badge/Tinkercad-595959.svg?&style=flat-square">
 <img src ="https://img.shields.io/badge/Frizing-df4833.svg?&style=flat-square">
 <img src ="https://img.shields.io/badge/Proteus%208-006074.svg?&style=flat-square">
 <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white">
