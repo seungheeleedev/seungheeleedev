@@ -24,7 +24,6 @@
 ## ✍️ Tech stack (Once I've used)
 ### 📚 Languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow">
 
@@ -44,6 +43,7 @@
 <br>
 
 <img src ="https://img.shields.io/badge/Splan7.0-c08245.svg?&style=flat-square">
+<img src ="https://img.shields.io/badge/OrCAD-e41134.svg?&style=flat-square">
 <img src ="https://img.shields.io/badge/ICAP/4-9c2931.svg?&style=flat-square">
 <img src ="https://img.shields.io/badge/Tinkercad-595959.svg?&style=flat-square">
 <img src ="https://img.shields.io/badge/Frizing-df4833.svg?&style=flat-square">
